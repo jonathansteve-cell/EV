@@ -1,0 +1,12 @@
+{
+  "name": "JARVIS + E.V. + Holomat",
+  "description": "Integrated cybernetic suite: JARVIS AI core, E.V. physical suit controller, and Holomat holographic HUD interface & 3D workshop.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
